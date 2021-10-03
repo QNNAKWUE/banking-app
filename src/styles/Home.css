@@ -1,0 +1,10 @@
+.home{
+    display: flex;
+    height: 100vh;
+    width: 100%;  
+}
+.home__image{
+    margin-left: 600px;
+    margin-right: 800px;
+    margin-top: 35px;
+}
